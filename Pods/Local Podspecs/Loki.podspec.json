@@ -1,0 +1,25 @@
+{
+  "name": "Loki",
+  "version": "0.1.0",
+  "summary": "A short description of Loki.",
+  "description": "This is a lib to rotate views according to language direction.\nIf you are using iOS < 9.0 for ar applications then you need this library to perform autofip for views, iamges, controllers.\nIf you support iOS 8 and greater then you need adjust the rules for built-in and custom flippings.",
+  "homepage": "https://github.com/mojidabckuu/Loki",
+  "license": "MIT",
+  "authors": {
+    "mojidabckuu": "mojidabckuu.22.06.92@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/mojidabckuu/Loki.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "Loki": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

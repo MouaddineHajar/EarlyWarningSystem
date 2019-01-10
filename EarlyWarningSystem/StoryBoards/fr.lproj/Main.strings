@@ -1,0 +1,111 @@
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "4MN-kt-OxU"; */
+"4MN-kt-OxU.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "TimeZone"; ObjectID = "4hx-On-7hy"; */
+"4hx-On-7hy.text" = "Fuseau Horaire";
+
+/* Class = "UITextField"; placeholder = "Address"; ObjectID = "5np-0L-y1E"; */
+"5np-0L-y1E.placeholder" = "Adresse";
+
+/* Class = "UITextField"; placeholder = "Old password"; ObjectID = "A8C-5g-lQc"; */
+"A8C-5g-lQc.placeholder" = "Ancien Mot de passe";
+
+/* Class = "UILabel"; text = "00:00"; ObjectID = "GNw-6Z-kMI"; */
+"GNw-6Z-kMI.text" = "00:00";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "HAk-ic-npP"; */
+"HAk-ic-npP.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Hello! Welcome to Early Warning System"; ObjectID = "HTq-Jo-Hvc"; */
+"HTq-Jo-Hvc.text" = "Salut! Bienvenue Au Système d'Alerte Précoce";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "I7q-99-Fpi"; */
+"I7q-99-Fpi.placeholder" = "Nom de famille";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "IGZ-u1-ln3"; */
+"IGZ-u1-ln3.placeholder" = "Nom de famille";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "ISw-rH-rcT"; */
+"ISw-rH-rcT.title" = "Paramètres";
+
+/* Class = "UILabel"; text = "Weather Summary"; ObjectID = "LO5-MD-GIZ"; */
+"LO5-MD-GIZ.text" = "Résumé Météo";
+
+/* Class = "UIButton"; normalTitle = "Log Out"; ObjectID = "MX8-3y-SDi"; */
+"MX8-3y-SDi.normalTitle" = "Déconnexion";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "QH0-QT-i1a"; */
+"QH0-QT-i1a.normalTitle" = "S'Inscrire";
+
+/* Class = "UITabBarItem"; title = "Users"; ObjectID = "QVQ-pe-dpA"; */
+"QVQ-pe-dpA.title" = "Utilisateurs";
+
+/* Class = "UILabel"; text = "H: 00F/ L: 00F"; ObjectID = "Qnf-ib-xGM"; */
+"Qnf-ib-xGM.text" = "H: 00F/ B: 00F";
+
+/* Class = "UILabel"; text = "YYYY-MM-DD"; ObjectID = "QqF-fC-zpp"; */
+"QqF-fC-zpp.text" = "YYYY-MM-DD";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "Rh9-iK-cgr"; */
+"Rh9-iK-cgr.title" = "Acceuil";
+
+/* Class = "UITextField"; placeholder = "Address"; ObjectID = "RoI-Sn-gAG"; */
+"RoI-Sn-gAG.placeholder" = "Adresse";
+
+/* Class = "UIButton"; normalTitle = "Reset Password"; ObjectID = "U6f-dW-D3g"; */
+"U6f-dW-D3g.normalTitle" = "Réinitialiser";
+
+/* Class = "UIButton"; normalTitle = "New User? Sign Up!"; ObjectID = "YGf-mK-kjX"; */
+"YGf-mK-kjX.normalTitle" = "Nouvel Utilisateur? Inscrivez vous ici!";
+
+/* Class = "UITextField"; placeholder = "New Password"; ObjectID = "ZFD-Sv-49u"; */
+"ZFD-Sv-49u.placeholder" = "Nouveau Mot de Passe";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "bql-TN-u8k"; */
+"bql-TN-u8k.placeholder" = "Email";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "ccf-t3-8Be"; */
+"ccf-t3-8Be.placeholder" = "Confirmer Mot de Passe";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "dAw-LH-cVE"; */
+"dAw-LH-cVE.placeholder" = "Téléphone";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "doD-Cb-7tA"; */
+"doD-Cb-7tA.placeholder" = "Téléphone";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "dzu-aQ-6hu"; */
+"dzu-aQ-6hu.placeholder" = "Prénom";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "eHA-aD-gzx"; */
+"eHA-aD-gzx.placeholder" = "Email";
+
+/* Class = "UIButton"; normalTitle = "Save Changes"; ObjectID = "fVp-if-VSX"; */
+"fVp-if-VSX.normalTitle" = "Enregistrer";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "gMn-83-LXC"; */
+"gMn-83-LXC.placeholder" = "Mot de Passe";
+
+/* Class = "UIButton"; normalTitle = "Password Forgotten?  Click here!"; ObjectID = "hdO-1I-19l"; */
+"hdO-1I-19l.normalTitle" = "Mot de Passe oublié?  Clickez ici!";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "jEw-jp-h6A"; */
+"jEw-jp-h6A.normalTitle" = "Connexion";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "kll-qA-O6J"; */
+"kll-qA-O6J.placeholder" = "Mot de Passe";
+
+/* Class = "UIButton"; normalTitle = "Change Language"; ObjectID = "p1j-LZ-AXP"; */
+"p1j-LZ-AXP.normalTitle" = "Changer de Langue";
+
+/* Class = "UIButton"; normalTitle = "Reset Password"; ObjectID = "pQj-a2-M8S"; */
+"pQj-a2-M8S.normalTitle" = "Réinitialiser Mot de Passe";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "sFx-IB-Y1L"; */
+"sFx-IB-Y1L.placeholder" = "Prénom";
+
+/* Class = "UIButton"; normalTitle = "Edit Profile"; ObjectID = "yGX-9O-liz"; */
+"yGX-9O-liz.normalTitle" = "Modifier Profile";
+
+/* Class = "UIButton"; normalTitle = "Send Password"; ObjectID = "yZF-o2-oyV"; */
+"yZF-o2-oyV.normalTitle" = "Envoyer";

@@ -1,0 +1,43 @@
+/* 
+  Localizable.strings
+  EarlyWarningSystem
+
+  Created by Hajar Mouaddine on 12/23/18.
+  Copyright © 2018 Hajar Mouaddine. All rights reserved.
+*/
+
+"Success" = "Succès";
+"Error" = "Erreur";
+"Info" = "Information";
+"Loged In Successfully" = "Connecté avec succès";
+"Please fill in all required fields" = "Veuillez remplir tous les champs requis";
+"Congratulations" = "Félicitations";
+"You have successfully signed up to EWS" = "Inscription Réussie à EWS";
+"Password confirmation unsuccessful" = "La confirmation du mot de passe a échoué";
+"Your new password has been sent successfully" = "Un lien de réinitialisation voua a été envoyé avec succès";
+"Couldn't retreive user information" = "Impossible de récupérer les informations de l'utilisateur";
+"Couldn't retreive Weather information" = "Impossible de récupérer les informations Météo";
+"You have been logged out Successfully" = "Vous avez été déconnecté avec succès";
+"Password updated Successfully" = "Mot de passe mis à jour avec succès";
+"Reminder" = "Rappel";
+"Your profile picture is not set yet or couldn't be found" = "Votre photo de profil n'est pas encore définie ou n'a pas pu être trouvée";
+"Profile information Updated successfully" = "Profil mises à jour avec succès";
+"Image Not Found" = "Image non trouvée";
+"Image Updated Successfully" = "Image mise à jour avec succès";
+"Coundn't retrieve Users Information" = "Impossible de récupérer les informations des utilisateurs";
+"No user Found" = "Aucun utilisateur trouvé";
+"English" = "Anglais";
+"French" = "Français";
+"Error retreiving user's ID" = "Erreur lors de la récupération de l'ID de l'utilisateur";
+"The user has been added to your friend list successfully" = "L'utilisateur a été ajouté à votre liste d'amis avec succès";
+"User couldn't be added to you friend list" = "L'utilisateur n'a pas pu être ajouté à votre liste d'amis";
+"Coundn't retrieve Friends Information" = "Impossible de récupérer les profils amis";
+"No Friend Found" = "Aucun ami trouvé";
+"The user has been removed successfully" = "L'utilisateur a été supprimé avec succès";
+"User couldn't be removed from your friend list" = "L'utilisateur n'a pas pu être supprimé de votre liste d'amis";
+"Please upload a picture before posting" = "Veuillez télécharger une photo avant de poster";
+"Post added Successfully!" = "Post ajouté avec succès!";
+"A problem occured!" = "Un problème est survenu!";
+"Couldn't retreive EarthQuake information" = "Impossible de récupérer les informations sismiques";
+"No data found!" = "Aucune donnée disponible!";
+"Message couldn't be sent!" = "Le message n'a pas pu être envoyé!";

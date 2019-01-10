@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  EarlyWarningSystem
+
+  Created by Hajar Mouaddine on 12/23/18.
+  Copyright © 2018 Hajar Mouaddine. All rights reserved.
+*/
+
+"Success" = "Success";
+"Error" = "Error";
+"Info" = "Info";
+"Loged In Successfully" = "Loged In Successfully";
+"Please fill in all required fields" = "Please fill in all required fields";
+"Congratulations" = "Congratulations";
+"You have successfully signed up to EWS" = "You have successfully signed up to EWS";
+"Password confirmation unsuccessful" = "Password confirmation unsuccessful";
+"Your new password has been sent successfully" = "Your new password has been sent successfully";
+"Couldn't retreive user information" = "Couldn't retreive user information";
+"Couldn't retreive Weather information" = "Couldn't retreive Weather information";
+"You have been logged out Successfully" = "You have been logged out Successfully";
+"Password updated Successfully" = "Password updated Successfully";
+"Reminder" = "Reminder";
+"Your profile picture is not set yet or couldn't be found" = "Your profile picture is not set yet or couldn't be found";
+"Profile information Updated successfully" = "Profile information Updated successfully";
+"Image Not Found" = "Image Not Found";
+"Image Updated Successfully" = "Image Updated Successfully";
+"Coundn't retrieve Users Information" = "Error retrieving Users!";
+"No user Found" = "No user Found";
+"English" = "English";
+"French" = "French";
+"Error retreiving user's ID" = "Error retreiving user's ID";
+"The user has been added to your friend list successfully" = "The user has been added to your friend list successfully";
+"User couldn't be added to your friend list" = "User couldn't be added to your friend list";
+"Coundn't retrieve Friends Information" = "Coundn't retrieve Friends Information";
+"No Friend Found" = "No Friend Found";
+"The user has been removed successfully" = "The user has been removed successfully";
+"User couldn't be removed from your friend list" = "User couldn't be removed from your friend list";
+"Please upload a picture before posting" = "Please upload a picture before posting";
+"Post added Successfully!" = "Post added Successfully!";
+"A problem occured!" = "A problem occured!";
+
+"Couldn't retreive EarthQuake information" = "Couldn't retreive EarthQuake information";
+"No data found!" = "No data found!";
+"Message couldn't be sent!" = "Message couldn't be sent!";
+
